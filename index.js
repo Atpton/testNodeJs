@@ -1,2 +1,2 @@
 var sub = require('./sub');
-console.log(sub(5-1))
+var a=0;
