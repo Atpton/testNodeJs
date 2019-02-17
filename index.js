@@ -1,2 +1,6 @@
 var sub = require('./sub');
-var a=0;
+console.log("fff")
+
+var a=8;
+
+
