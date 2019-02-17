@@ -3,6 +3,8 @@ console.log("fff")
 
 var a=8;
 
+ 
 var c= a;
 
 
+ 

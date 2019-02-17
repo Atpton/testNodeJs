@@ -1,1 +1,1 @@
-module.exports.sub = (a,b)=> a-b;
+module.exports.sub = (a,b)=> a-b-5-4;
