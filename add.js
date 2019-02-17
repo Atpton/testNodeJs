@@ -1,7 +1,7 @@
 module.exports.add  = function(a,b){
     let s;
  
-    return a* b;
+    return a* b*7;
  
  
  
