@@ -1,3 +1,21 @@
 {
- "name":"Test"
+  "name": "t",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atpton/testNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atpton/testNodeJs/issues"
+  },
+  "homepage": "https://github.com/Atpton/testNodeJs#readme",
+  "dependencies": {}
 }
